@@ -1,2 +1,2 @@
 # AI-ML-TRAIINING-
-Numpy , Pandas, Seaborn, Matplotlib and Sci-kit learn
+Numpy , Pandas, Seaborn, Matplotlib , Sci-kit learn with Data Preprocessing
